@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7d8af7afd6223ea43a75efe436d57edd, type: 3}
+  m_Name: Control Phase Player
+  m_EditorClassIdentifier: 
+  phaseName: Control
+  forceExit: 0
+  playerControlState: {fileID: 11400000, guid: 80d0543f29492fe43843cf84b990954d, type: 2}
+  turnStartActions:
+  - {fileID: 11400000, guid: e1ab0f6f738b036488e71a873dcb156b, type: 2}
+  - {fileID: 11400000, guid: 6673ac3eb2f7f2647a1197fa4b0edaf9, type: 2}
+  - {fileID: 11400000, guid: 7b439d09e0699e14e8f261daf04b6244, type: 2}

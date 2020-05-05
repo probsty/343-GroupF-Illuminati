@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 62eb5ca3c746e4d44ba55e57dd73253f, type: 3}
+  m_Name: The Moor
+  m_EditorClassIdentifier: 
+  cardType: {fileID: 11400000, guid: 9e4ed238c781b504aad68238ad910f8f, type: 2}
+  properties:
+  - stringValue: The Moor
+    intValue: 0
+    sprite: {fileID: 0}
+    element: {fileID: 11400000, guid: a867422b4d43e114d92829970de328d6, type: 2}
+  - stringValue: Ilya Repin
+    intValue: 0
+    sprite: {fileID: 0}
+    element: {fileID: 11400000, guid: e2234e62d716ca2479c70154e14a0aa2, type: 2}
+  - stringValue: A vast and magical moor
+    intValue: 0
+    sprite: {fileID: 0}
+    element: {fileID: 11400000, guid: c76ac567c0dd5f849adb0d2418518f13, type: 2}
+  - stringValue: 
+    intValue: 0
+    sprite: {fileID: 21300000, guid: 3b5749e4b86607444873b4b427fbca40, type: 3}
+    element: {fileID: 11400000, guid: fe210400af3883a47b6f38efda94dfbc, type: 2}

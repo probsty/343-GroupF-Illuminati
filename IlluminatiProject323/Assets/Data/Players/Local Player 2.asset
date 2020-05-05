@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b75f70be44843214cad81f24d6b78496, type: 3}
+  m_Name: Local Player 2
+  m_EditorClassIdentifier: 
+  username: Second
+  potrait: {fileID: 21300000, guid: 4dd95db82edf08246931d48b992af4f7, type: 3}
+  playerColor: {r: 0.6691177, g: 0.6713996, b: 1, a: 1}
+  statsUI: {fileID: 0}
+  startingDeck:
+  - The Moor
+  - Hero
+  - The Moor
+  - Hero
+  - The Moor
+  - Flying Carpet
+  - Flying Carpet
+  resourcesPerTurn: 1
+  isHumanPlayer: 1
+  handLogic: {fileID: 11400000, guid: b3c51d27020b82f4994382474c473a70, type: 2}
+  downLogic: {fileID: 11400000, guid: 9275288cbd596e4499a128a1613f58df, type: 2}

@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec6cbe66dff6ef64abafbcac965a502b, type: 3}
+  m_Name: Turns Holder
+  m_EditorClassIdentifier: 
+  phaseOrder:
+  - Player Block Phase
+  - Battle Resolve
+  - Reset Player References
+  - Control Phase Player
+  - Battle Phase
+  allPhases:
+  - {fileID: 11400000, guid: a6b610f5573a6ce40a5b37eb93340b5f, type: 2}
+  - {fileID: 11400000, guid: b715a188ffa9088439d281ba6bb20ebd, type: 2}
+  - {fileID: 11400000, guid: ffb6dbd2566c6784690940c83e1064ad, type: 2}
+  - {fileID: 11400000, guid: b267f26d31b9ed14cacd359634bf4c44, type: 2}
+  - {fileID: 11400000, guid: 29d12ec4f29a7ed4f896037549504f88, type: 2}

@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dca6ae403fec79941a3555f2be689d2d, type: 3}
+  m_Name: Player Block Phase
+  m_EditorClassIdentifier: 
+  phaseName: Block
+  forceExit: 0
+  changeActivePlayer: {fileID: 11400000, guid: e1ab0f6f738b036488e71a873dcb156b, type: 2}
+  playerControlState: {fileID: 11400000, guid: 05f726d902bdbd54da961ada3be645ca, type: 2}
