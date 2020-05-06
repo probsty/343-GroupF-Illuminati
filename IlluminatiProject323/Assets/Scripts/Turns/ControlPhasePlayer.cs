@@ -29,7 +29,6 @@ namespace SA
 		{	
 			Settings.gameManager.SetState(playerControlState);
 			Settings.gameManager.onPhaseChanged.Raise();
-
 			foreach (PlayerAction action in turnStartActions)
 			{
 				action.Execute(Settings.gameManager.localPlayer);

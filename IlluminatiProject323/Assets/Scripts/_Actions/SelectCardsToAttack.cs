@@ -30,7 +30,7 @@ namespace SA
 					//{
 					//	p.attackingCards.Add(inst);
 					//	p.currentHolder.SetCardOnBattleLine(inst);
-					//}
+					//}	
 				}
 			}
 		}

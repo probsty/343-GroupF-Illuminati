@@ -7,15 +7,11 @@ namespace SA
 	public class BlockPhase : Phase
 	{
 		public GameStates.State playerControlState;
-
 		public override bool IsComplete()
 		{
-			//Debug.Log("block phase");	
-		
 			if (forceExit)
 			{
 				forceExit = false;
-			
 				return true;
 			}
 
@@ -27,11 +23,9 @@ namespace SA
 		{
 			forceExit = true;
 			return;
-
 			GameManager gm = Settings.gameManager;
 			gm.SetState(playerControlState);
 			gm.onPhaseChanged.Raise();
-
 			PlayerHolder e = gm.GetEnemyOf(gm.currentPlayer);
 			if (e.attackingCards.Count == 0)
 			{

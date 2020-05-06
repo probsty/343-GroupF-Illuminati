@@ -177,7 +177,6 @@ namespace SA
 			if (phaseIsComplete)
 			{
 				currentPhase = null;
-//				MultiplayerManager.singleton.PlayerEndsPhase(localPlayer.photonId);
 			}
 
 			//bool isComplete = turns[turnIndex].Execute();

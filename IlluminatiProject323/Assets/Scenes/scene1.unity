@@ -164,9 +164,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 74e378beb4aa7264ea6c202637309a4d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  m_Name: 
-  m_Name: 
-  m_Name: 
   transformVariable: {fileID: 11400000, guid: de787e95b41aa9049994ae5432733aaf, type: 2}
 --- !u!114 &170227631
 MonoBehaviour:
@@ -341,10 +338,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 74e378beb4aa7264ea6c202637309a4d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  m_Name: 
-  m_Name: 
-  m_Name: 
-  m_Name: 
   transformVariable: {fileID: 0}
 --- !u!1 &215953014
 GameObject:
@@ -702,9 +695,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 74e378beb4aa7264ea6c202637309a4d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  m_Name: 
-  m_Name: 
-  m_Name: 
   transformVariable: {fileID: 11400000, guid: c6e313e9ea03c834c8dcad0f749e0a8a, type: 2}
 --- !u!1 &460967658
 GameObject:
@@ -833,9 +823,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 74e378beb4aa7264ea6c202637309a4d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  m_Name: 
-  m_Name: 
-  m_Name: 
   transformVariable: {fileID: 11400000, guid: f92a219c3af429642a2fe1d11231b1d4, type: 2}
 --- !u!114 &475049751
 MonoBehaviour:
@@ -1500,32 +1487,32 @@ PrefabInstance:
     - target: {fileID: 224347933560917668, guid: d11f683f824dab94399b74e71e81399d,
         type: 3}
       propertyPath: m_AnchorMin.y
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 224347933560917668, guid: d11f683f824dab94399b74e71e81399d,
         type: 3}
       propertyPath: m_AnchorMax.y
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 224347933560917668, guid: d11f683f824dab94399b74e71e81399d,
         type: 3}
       propertyPath: m_AnchoredPosition.x
-      value: 211.495
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 224347933560917668, guid: d11f683f824dab94399b74e71e81399d,
         type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: -83.104996
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 224347933560917668, guid: d11f683f824dab94399b74e71e81399d,
         type: 3}
       propertyPath: m_SizeDelta.x
-      value: 560
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 224347933560917668, guid: d11f683f824dab94399b74e71e81399d,
         type: 3}
       propertyPath: m_SizeDelta.y
-      value: 120
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 224659776940759526, guid: d11f683f824dab94399b74e71e81399d,
         type: 3}
@@ -1620,52 +1607,52 @@ PrefabInstance:
     - target: {fileID: 224677309269947232, guid: d11f683f824dab94399b74e71e81399d,
         type: 3}
       propertyPath: m_AnchorMin.y
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 224677309269947232, guid: d11f683f824dab94399b74e71e81399d,
         type: 3}
       propertyPath: m_AnchorMax.y
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 224677309269947232, guid: d11f683f824dab94399b74e71e81399d,
         type: 3}
       propertyPath: m_AnchoredPosition.x
-      value: 50
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 224677309269947232, guid: d11f683f824dab94399b74e71e81399d,
         type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: -12.5
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 224838594645777610, guid: d11f683f824dab94399b74e71e81399d,
         type: 3}
       propertyPath: m_AnchorMin.y
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 224838594645777610, guid: d11f683f824dab94399b74e71e81399d,
         type: 3}
       propertyPath: m_AnchorMax.y
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 224838594645777610, guid: d11f683f824dab94399b74e71e81399d,
         type: 3}
       propertyPath: m_AnchoredPosition.x
-      value: 211.495
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 224838594645777610, guid: d11f683f824dab94399b74e71e81399d,
         type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: -162.155
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 224838594645777610, guid: d11f683f824dab94399b74e71e81399d,
         type: 3}
       propertyPath: m_SizeDelta.x
-      value: 560
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 224838594645777610, guid: d11f683f824dab94399b74e71e81399d,
         type: 3}
       propertyPath: m_SizeDelta.y
-      value: 120
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: d11f683f824dab94399b74e71e81399d, type: 3}
@@ -2012,7 +1999,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &990574857
 RectTransform:
   m_ObjectHideFlags: 0
@@ -2143,7 +2130,7 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
   m_FontData:
-    m_Font: {fileID: 12800000, guid: 01b1396803881434189687243cc80fdc, type: 3}
+    m_Font: {fileID: 10102, guid: 0000000000000000e000000000000000, type: 0}
     m_FontSize: 30
     m_FontStyle: 0
     m_BestFit: 0
@@ -2361,9 +2348,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 74e378beb4aa7264ea6c202637309a4d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  m_Name: 
-  m_Name: 
-  m_Name: 
   transformVariable: {fileID: 0}
 --- !u!1 &1051178096
 GameObject:
@@ -3044,7 +3028,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!224 &1425840474
 RectTransform:
   m_ObjectHideFlags: 0
@@ -4027,7 +4011,7 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
   m_FontData:
-    m_Font: {fileID: 12800000, guid: 01b1396803881434189687243cc80fdc, type: 3}
+    m_Font: {fileID: 10102, guid: 0000000000000000e000000000000000, type: 0}
     m_FontSize: 30
     m_FontStyle: 0
     m_BestFit: 0
